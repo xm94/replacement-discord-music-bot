@@ -1,0 +1,24 @@
+{
+  "name": "replacement-discord-music-bot",
+  "version": "1.0.0",
+  "description": "a replacement bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xm94/replacement-discord-music-bot.git"
+  },
+  "author": "xm94",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xm94/replacement-discord-music-bot/issues"
+  },
+  "homepage": "https://github.com/xm94/replacement-discord-music-bot#readme",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "discord": "^0.8.2",
+    "discord.js": "^13.1.0"
+  }
+}
