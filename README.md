@@ -5,6 +5,6 @@ Youtube killed our bots ¯\_(ツ)_/¯
 
 - youtube api and play/skip functionality
 - pause/resume functionality
-- local music library usage
-- name
+- **local music library usage**
+- name (low priority)
 
